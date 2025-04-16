@@ -20,6 +20,31 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=debarkak&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
+<div align="center">
+
+<h3><strong>software that i use daily</strong></h3>
+
+**Debian Sid** — main system  
+**KDE Plasma** — DE  
+**Notion** — note taking  
+**VSCodium** — code editor  
+**OnlyOffice** — documents  
+**Firefox Nightly** — web browser  
+
+<br>
+
+<h3><strong>hardware that i use daily</strong></h3>
+
+**Dell Inspiron 5430** — laptop  
+**Samsung Galaxy F15** — phone  
+**Raspberry Pi 5 (8GB)** — home mini-server  
+
+</div>
+
+
+
+
+
 ###
 
 readme.md design by [Danek309044](https://github.com/Danek309044)
