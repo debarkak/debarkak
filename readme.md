@@ -24,11 +24,9 @@
 
 <h3><strong>software that i use daily</strong></h3>
 
-**Debian Sid** — main system  
-**KDE Plasma** — DE  
-**Notion** — note taking  
-**VSCodium** — code editor  
-**OnlyOffice** — documents  
+**Windows 11** — main system  
+**notion** — note taking  
+**code** — code editor   
 **Firefox Nightly** — web browser  
 
 <br>
@@ -36,7 +34,7 @@
 <h3><strong>hardware that i use daily</strong></h3>
 
 **Dell Inspiron 5430** — laptop  
-**Samsung Galaxy F15** — phone  
+**Nothing Phone (2)** — phone  
 **Raspberry Pi 5 (8GB)** — home mini-server  
 
 </div>
