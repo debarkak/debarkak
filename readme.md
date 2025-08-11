@@ -24,16 +24,16 @@
 
 <h3><strong>software that i use daily</strong></h3>
 
-**Windows 11** — main system  
+**Windows 10 LTSC 2021 + CatchyOS** — main system  
 **notion** — note taking  
 **code** — code editor   
-**Firefox Nightly** — web browser  
+**Google Chrome** — web browser  
 
 <br>
 
 <h3><strong>hardware that i use daily</strong></h3>
 
-**Dell Inspiron 5430** — laptop  
+**Dell Inspiron N4110** — laptop  
 **Nothing Phone (2)** — phone  
 **Raspberry Pi 5 (8GB)** — home mini-server  
 
