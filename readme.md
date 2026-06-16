@@ -1,7 +1,14 @@
-### professionally stupid 
+### professionally stupid
 
-info: class9 student, self-taught
+class 9 student.
 
+i break things, fix things, and occasionally contribute to open source.
 
->[!IMPORTANT]
-Due to my exams and study pressures, I might be slow to respond/My activity will be reduced
+interests: linux, self-hosting, and random projects.
+
+> [!IMPORTANT]
+> exams approaching.
+>
+> if i disappear, i'm either studying or doomscrolling.
+>
+> probably doomscrolling.
