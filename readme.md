@@ -9,3 +9,4 @@ interests: linux, self-hosting, random projects, and making questionable decisio
 > [!IMPORTANT]
 > i may take a long time to respond to an email, and i may be inactive or really slow with my PR's
 > it's because of study pressures and life, don't mind. thank you!
+> and please don't send me any advert or promotional links, i will not read them. (you can use ai to write your texts but no ads)
